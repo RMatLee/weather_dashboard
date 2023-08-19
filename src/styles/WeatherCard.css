@@ -1,0 +1,33 @@
+.weather-card {
+  position: relative;  /* Set the positioning context for the icon */
+  background-color: #007BFF;
+  color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.weather-temperature {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.fahrenheit {
+  font-size: 0.5em;
+}
+
+
+.weather-windspeed, 
+.weather-winddirection, 
+.weather-isday {
+  margin-bottom: 5px;
+}
+
+/* Styling for the day-night-icon (sun/moon icon) */
+.day-night-icon {
+  position: absolute;  /* Absolute positioning within the weather-card */
+  top: 10px;           /* Distance from the top of the weather-card */
+  right: 10px;         /* Distance from the right of the weather-card */
+  width: 75px;         /* Width of the icon */
+  height: 75px;        /* Height of the icon (you can adjust the size as needed) */
+}
