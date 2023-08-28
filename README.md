@@ -1,3 +1,5 @@
+![Weather Dashboard](WeatherDashboard.png)
+
 🌤️ Weather Dashboard
 A simple and intuitive weather dashboard to view the current weather of any city worldwide. Users can also view their search history and quickly access weather information for previously searched cities.
 
