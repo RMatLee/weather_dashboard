@@ -31,3 +31,30 @@ cd weather-dashboard
 ```
 
 ### Install Dependencies
+Using npm:
+```bash
+npm install
+```
+
+or using yarn:
+```bash
+yarn
+```
+
+### Run the App
+using npm:
+```bash
+npm start
+```
+
+or using yarn:
+```bash
+yarn start
+```
+The app should now be accessible at http://localhost:3000.
+
+## 🤝 Contributing
+Pull requests are welcome. For significant changes, please open an issue first to discuss your proposed changes.
+
+## 📜 License
+This project is licensed under the MIT License. Refer to the LICENSE file for more details.
